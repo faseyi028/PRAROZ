@@ -1,0 +1,169 @@
+body{
+	margin:auto;
+	padding:auto;
+
+}
+.body_layer{
+	background-color: #221f1f;
+	display: flex;
+	margin-top:0em;
+
+}
+.first_img img{
+	width:18px;
+	margin-top:2.5px;
+
+}
+.click{
+	margin-left: 70px;
+	text-align: center;
+	text-decoration: none;
+	color:white;
+	font:15px bold calibri;
+	text-transform: uppercase;
+
+}
+#Con{
+	color:#a9602a;
+	margin-top:3.5px;
+	margin-left:600px;
+	position:absolute;
+
+}
+#ref{
+	margin-top:3.5px;
+	margin-left:50px;
+}
+.bar{
+	margin-left:200px;
+	padding:0.2em 0.4em;
+	border-radius:20px;
+
+}
+.menu_bar{
+	border:none;
+	border:2px solid #a9602a;
+	text-align: center;
+}
+.title_bar{
+	border:none;
+margin-left:-9px;
+padding-top: 0px;
+cursor: pointer;
+background:#a9602a ;
+font-size: 17px;
+}
+.body_cover{
+	background-color:blue;
+	display: flex;
+	padding-bottom:40px;
+}
+.main_body_cover{
+	margin-top:90px;
+	margin-left:70px;
+	
+}
+.sub_body_cover{
+	color: white;
+	font:12px calibri;
+}
+.btn1{
+	margin-top:3px;
+	background-color: #ff820f;
+	border: none;
+	border-radius:3px;
+	padding:3.5px 25px;
+	text-align: center;
+	font-size: 10px;
+	margin-top: 15px;
+
+}
+.end_layer{
+	background-color:black;
+	width:200px;
+	margin-left:400px;
+	margin-top: 90px;
+	opacity:0.8;
+	border-radius:3px;
+}
+.topic{
+	background-color:#fdfdfd;
+	color:#ff9127;
+	border-radius:4.5px;
+	margin-top:13.5px;
+	padding:7px 8px;
+	margin:10px 9px;
+	text-align: center;
+	font:18px bold bookman old style;
+}
+.at{
+	background: black;
+	border:none;
+	color:white;
+	border-radius:1px;
+	border-bottom:3px solid #a9602a;
+	margin-top: 13.5px;
+	margin-left:8px;
+	font-family: courier;
+
+}
+.ats{
+	background: black;
+	border:none;
+	color:white;
+	border-radius:1px;
+	border-bottom:3px solid #a9602a;
+	margin-top: 13.5px;
+	margin-left:8px;
+	font-family: courier;
+}
+.btn2{
+	background-color:#ff9127;
+	padding:4px 70px;
+	border-radius:5px;
+	text-align: center;
+	font-family:calibri;
+	font-weight: bold;
+	font-size: 17px;
+	margin-left: 8px;
+	margin-top:13.5px;
+	cursor: pointer;
+
+}
+.end_cover{
+	color: white;
+	margin-top:8px;
+	text-align: center;
+	font-size:10px;
+}
+.act{
+		color:white;
+		text-align: center;
+		font-size:10px;
+		text-decoration: none;
+
+}
+.acts{
+		color:white;
+		text-align: center;
+		font-size:10px;
+		margin-top:7px;
+		letter-spacing:1px;
+
+		
+}
+.shift{
+	color: white;
+	margin-left:10px;
+
+}
+.tant{
+	margin-top:8.7px;
+	margin-left:17px;
+}
+
+
+
+
+
+	
